@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AmbrosioWeather</string>
+
+    <string-array name="hot_answers">
+        <item>Não</item>
+        <item>Não. Está um dia lindo lá fora</item>
+        <item>Não. Está um tempo de bronzear</item>
+    </string-array>
+
+    <string-array name="medium_answers">
+        <item>Talvez</item>
+        <item>Uma casaquinha, talvez</item>
+        <item>Não vai morrer se não levar</item>
+    </string-array>
+
+    <string-array name="cold_answers">
+        <item>Sim</item>
+        <item>Vista um casaco, por favor</item>
+        <item>Não se estiver a tentar ficar doente</item>
+    </string-array>
+
+
+</resources>
